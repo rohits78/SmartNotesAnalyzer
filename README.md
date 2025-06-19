@@ -3,6 +3,10 @@
 A hybrid Java + Python desktop application that uses Natural Language Processing (NLP) to analyze text notes and generate PDF summary reports.  
 
 > 🚀 Built with Java Swing (frontend GUI) + Flask & spaCy/TextBlob (Python backend)
+>
+> ## 📁 Project Repository
+[View the Project on GitHub](https://github.com/rohits78/SmartNotesAnalyzer)
+
 
 ## 📸 Screenshots
 
